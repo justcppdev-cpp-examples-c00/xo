@@ -239,7 +239,7 @@ e |   |   |   |   |   |
 22. mark cell e3 as O
 23. mark cell e4 as O
 24. mark cell e5 as O
-15. quit
+25. quit
 
 ...
 ```
