@@ -188,7 +188,17 @@ e |   |   |   |   |   |
 13. mark cell c3 as X
 14. mark cell c4 as X
 15. mark cell c5 as X
-16. quit
+16. mark cell d1 as X
+17. mark cell d2 as X
+18. mark cell d3 as X
+19. mark cell d4 as X
+20. mark cell e5 as X
+21. mark cell e1 as X
+22. mark cell e2 as X
+23. mark cell e3 as X
+24. mark cell e4 as X
+25. mark cell e5 as X
+26. quit
 
 1
 
@@ -219,6 +229,16 @@ e |   |   |   |   |   |
 12. mark cell c3 as O
 13. mark cell c4 as O
 14. mark cell c5 as O
+15. mark cell d1 as O
+16. mark cell d2 as O
+17. mark cell d3 as O
+18. mark cell d4 as O
+19. mark cell d5 as O
+20. mark cell e1 as O
+21. mark cell e2 as O
+22. mark cell e3 as O
+23. mark cell e4 as O
+24. mark cell e5 as O
 15. quit
 
 ...
