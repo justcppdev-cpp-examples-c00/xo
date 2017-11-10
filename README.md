@@ -154,3 +154,72 @@ c | O |   | X |
 
 player X wonn.
 ```
+
+## xo@0.0.2
+Требуется написать xo с полем размерами **5x5** для двух игроков. 
+
+### Примеры
+```
+    1   2   3   4   5
+  +---+---+---+---+---+
+a |   |   |   |   |   |
+  +---+---+---+---+---+
+b |   |   |   |   |   |
+  +---+---+---+---+---+
+c |   |   |   |   |   |
+  +---+---+---+---+---+
+d |   |   |   |   |   |
+  +---+---+---+---+---+
+e |   |   |   |   |   |
+  +---+---+---+---+---+
+
+1. mark cell a1 as X
+2. mark cell a2 as X
+3. mark cell a3 as X
+4. mark cell a4 as X
+5. mark cell a5 as X
+6. mark cell b1 as X
+7. mark cell b2 as X
+8. mark cell b3 as X
+9. mark cell b4 as X
+10. mark cell b5 as X
+11. mark cell c1 as X
+12. mark cell c2 as X
+13. mark cell c3 as X
+14. mark cell c4 as X
+15. mark cell c5 as X
+16. quit
+
+1
+
+    1   2   3   4   5
+  +---+---+---+---+---+
+a | X |   |   |   |   |
+  +---+---+---+---+---+
+b |   |   |   |   |   |
+  +---+---+---+---+---+
+c |   |   |   |   |   |
+  +---+---+---+---+---+
+d |   |   |   |   |   |
+  +---+---+---+---+---+
+e |   |   |   |   |   |
+  +---+---+---+---+---+
+
+1. mark cell a2 as O
+2. mark cell a3 as O
+3. mark cell a4 as O
+4. mark cell a5 as O
+5. mark cell b1 as O
+6. mark cell b2 as O
+7. mark cell b3 as O
+8. mark cell b4 as O
+9. mark cell b5 as O
+10. mark cell c1 as O
+11. mark cell c2 as O
+12. mark cell c3 as O
+13. mark cell c4 as O
+14. mark cell c5 as O
+15. quit
+
+...
+```
